@@ -6,5 +6,5 @@ In this work, we present a new dataset called Tifinagh-MNIST: handwritten letter
 
 
 
-![Logo](https://media.licdn.com/dms/image/C4E22AQGE6ZG-gNJhXg/feedshare-shrink_800/0/1656066492444?e=1678924800&v=beta&t=6on0spkXPm5NK4kY4SFEttnzkUrII9OUfvHxWeM8zO0)
+![Logo](https://github.com/iseddik/Tifinagh-MNIST/blob/main/image.png)
 
