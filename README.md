@@ -6,5 +6,5 @@ In this work, we present a new dataset called ADOHCR: handwritten letters of the
 
 
 
-![Logo](https://github.com/iseddik/Tifinagh-MNIST/blob/main/image.png)
+![Logo](https://github.com/iseddik/ADOHCR/blob/main/image.png)
 
